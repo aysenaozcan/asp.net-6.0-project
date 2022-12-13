@@ -1,2 +1,2 @@
 # asp.net-6.0-project
-asp blog projesi
+A blog site developed with ASP.NET 6.0.
