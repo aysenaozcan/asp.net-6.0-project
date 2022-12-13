@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "BusinessLayer": {
+      "commandName": "Project",
+      "jsWebView2Debugging": false,
+      "hotReloadEnabled": true
+    }
+  }
+}
